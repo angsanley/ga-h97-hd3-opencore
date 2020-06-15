@@ -166,16 +166,6 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>USBH97M-D3H.kext</string>
-				<key>Comment</key>
-				<string>USB Ports Mapping</string>
-				<key>Enabled</key>
-				<true/>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
 		</array>
 		<key>Quirks</key>
 		<dict>
