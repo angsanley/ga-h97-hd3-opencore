@@ -27,7 +27,4 @@ Currently tested working with macOS Catalina 10.15.5.
 * *Peripherals* → Intel Processor Graphics Memory Allocation [**64M**]
 * *Peripherals* → XHCI Hand-off [**Enabled**]
 * *Peripherals* → EHCI Hand-off [**Enabled**]
-
-## Issues
-1. USB is not mapped correctly yet, but it's somewhat working.
-2. Sleep is not working as USB is not fixed yet. Please disable sleep for now.
+* *Peripherals* → Super IO → Serial Port [**Disabled**]
