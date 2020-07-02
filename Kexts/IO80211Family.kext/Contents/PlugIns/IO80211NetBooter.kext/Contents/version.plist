@@ -5,7 +5,7 @@
 	<key>BuildAliasOf</key>
 	<string>AirPortFamily</string>
 	<key>BuildVersion</key>
-	<string>103</string>
+	<string>284</string>
 	<key>CFBundleShortVersionString</key>
 	<string>12.0</string>
 	<key>CFBundleVersion</key>
@@ -13,6 +13,6 @@
 	<key>ProjectName</key>
 	<string>AirPortFamily_kexts</string>
 	<key>SourceVersion</key>
-	<string>1425016000000000</string>
+	<string>1406005000000000</string>
 </dict>
 </plist>

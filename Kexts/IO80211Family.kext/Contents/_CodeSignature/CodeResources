@@ -6,16 +6,25 @@
 	<dict>
 		<key>version.plist</key>
 		<data>
-		qC+FeEoe8ckd5f34v1BYdFeFWEs=
+		T+Qv4txkJgDIvfIyBdnJzi+4LfU=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>PlugIns/AirPortAtheros40.kext</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fOIay8yzghI342zMMWNEsPppRwA=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.driver.AirPort.Atheros40" and anchor apple</string>
+		</dict>
 		<key>PlugIns/AirPortBrcm4331.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			rYJ3q71SyBgP/fXPC2wED2OgRQg=
+			oa62sUbMz36P4ll59Hun8D4lA1A=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.driver.AirPort.Brcm4331" and anchor apple</string>
@@ -24,7 +33,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2MxGFUZdc2/Kh1rpFBsNuXEJ/qw=
+			xCkp1A34lwekGEqZM/oegmO6nWI=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.driver.AirPort.Brcm4360" and anchor apple</string>
@@ -33,7 +42,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uFLdqt1MxvRIsUe+IwXFD8ILPPQ=
+			AjTqKIyLxWlx96chJWafcwbXtdA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.driver.AirPort.BrcmNIC" and anchor apple</string>
@@ -42,7 +51,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5STI/heFitX5a3PWXHHMKjbtSdc=
+			L/H5+FNvhrGita790qXtzV3daWo=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.driver.IO80211NetBooter" and anchor apple</string>
@@ -51,7 +60,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oCsnIZreIQWNnilDou1Isj0DWnaBnRRwdJKrayiomLE=
+			IqfTNLLClUbkdR0NMF2Q7UsBdWlQQsQaXklWm0X0iwI=
 			</data>
 		</dict>
 	</dict>
